@@ -26,6 +26,7 @@ div.chatWindow {
   border-radius: 10px 0 0 10px;
   max-height: 70vh;
   min-height: calc(100vh - 17rem);
+  max-width: 80vw;
 }
 
 /* textMessage is a class for all text messages */
