@@ -56,6 +56,10 @@ div.chatWindow {
   color: #000000;
 }
 
+.textMessage.blue{
+  background-color: #00688B ;
+}
+
 .textInput {
   margin: 10px 15px 10px 0;
 }
