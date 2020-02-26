@@ -15,12 +15,13 @@ h1 {
 }
 
 .channelList p {
+  width: 20%;
   color: white;
 }
 
 /* chatWindow is a class which is a wrapper for all of the text messages */
 div.chatWindow {
-  width: 99%;
+  width: 78%;
   overflow-y: scroll;
   background-color: #34393F;
   border-radius: 10px 0 0 10px;
