@@ -21,13 +21,13 @@ h1 {
 
 /* chatWindow is a class which is a wrapper for all of the text messages */
 div.chatWindow {
-  width: 78%;
   overflow-y: scroll;
   background-color: #34393F;
   border-radius: 10px 0 0 10px;
   max-height: 70vh;
   min-height: calc(100vh - 17rem);
-  max-width: 80vw;
+  max-width: 90vw;
+  left: 1000px;
 }
 
 /* textMessage is a class for all text messages */
