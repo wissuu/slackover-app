@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\App",
+    "\\src\\components\\ChannelList",
+    "\\src\\components\\ChatWindow",
+    "\\src\\components\\TextInputBox",
+    "\\src\\components\\TextMessageBox"
+  ],
+  "SelectedNode": "\\src\\components\\App\\App.js",
+  "PreviewInSolutionExplorer": false
+}
