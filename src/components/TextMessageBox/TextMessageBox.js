@@ -9,7 +9,7 @@ const formatDateFromTimestamp = (timestamp) => {
 }
 
 function TextMessageBox({ message, user }) {
-  const color = ((user && message.userId === user.uid)) ? "green" : "grey";
+  const color = ((user && message.userId === user.uid)) ? "blue" : "grey";
 
   return (
     <div className={`textMessage ${color}`}>
