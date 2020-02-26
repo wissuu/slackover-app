@@ -85,7 +85,7 @@ div.chatWindow {
 /* Generic button css for send and log out */
 button {
   text-align: left;
-  width: 50%;
+  width: 80%;
   float: left;
   background-color: #4f5358;
   color: white;
