@@ -14,7 +14,7 @@ export const startRealtimeMessagesStreamWithChannel = (channel, cb) => {
     messagesApi
         .where("channelName", "==", channel)
         .orderBy("createdAt", "desc")
-        .limit(10)
+        .limit(100)
         .onSnapshot(async querySnapshot => {
         
             const newMessages = querySnapshot && querySnapshot.docs ? 

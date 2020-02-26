@@ -40,7 +40,7 @@ const TextInputBox = ({ messagesApi, user }) => {
         }}>
         <Editable placeholder="Message #channel - Remove the button and try send messages using enter?" />
       </Slate>
-      <button onClick={onSubmit}>Send!</button>
+      <button onClick={onSubmit}>Send!!!!!</button>
     </div>
   );
 }
