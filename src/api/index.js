@@ -1,13 +1,14 @@
 import firebase from 'firebase'
 
 const config = {
-  apiKey: "<your key here>",
-  authDomain: "<your key here>",
-  databaseURL: "<your key here>",
-  projectId: "<your key here>",
-  storageBucket: "<your key here>",
-  messagingSenderId: "<your key here>",
-  appId: "<your key here>8"
+  apiKey: "AIzaSyAECIVao8ukspv1CWhh63FuHx-Mj5MXX7A",
+  authDomain: "anything-for-pizza.firebaseapp.com",
+  databaseURL: "https://anything-for-pizza.firebaseio.com",
+  projectId: "anything-for-pizza",
+  storageBucket: "anything-for-pizza.appspot.com",
+  messagingSenderId: "623291146383",
+  appId: "1:623291146383:web:5bf6dbb18acc5cf08c10fa",
+  measurementId: "G-TM9N65CQ2W"
 };
 // Initialize Firebase
 firebase.initializeApp(config);
