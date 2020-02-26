@@ -1,14 +1,14 @@
 import firebase from 'firebase'
 
 const config = {
-  apiKey: "AIzaSyAECIVao8ukspv1CWhh63FuHx-Mj5MXX7A",
-  authDomain: "anything-for-pizza.firebaseapp.com",
-  databaseURL: "https://anything-for-pizza.firebaseio.com",
-  projectId: "anything-for-pizza",
-  storageBucket: "anything-for-pizza.appspot.com",
-  messagingSenderId: "623291146383",
-  appId: "1:623291146383:web:5bf6dbb18acc5cf08c10fa",
-  measurementId: "G-TM9N65CQ2W"
+  apiKey: "AIzaSyAuic-g_hPAKRUuz0SoVP7rOLdlkCQqvFY",
+  authDomain: "discord-2-1024e.firebaseapp.com",
+  databaseURL: "https://discord-2-1024e.firebaseio.com",
+  projectId: "discord-2-1024e",
+  storageBucket: "discord-2-1024e.appspot.com",
+  messagingSenderId: "292513746259",
+  appId: "1:292513746259:web:590469f2d80adfe27665a6",
+  measurementId: "G-Y838SQMNGW"
 };
 // Initialize Firebase
 firebase.initializeApp(config);
